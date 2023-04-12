@@ -1,0 +1,1102 @@
+{
+    "hasMore": true,
+    "countCourse": 5000,
+    "courses": [
+        {
+            "courseID": "63bde7e8af1f1b5d3ecf59ee",
+            "duration": 28,
+            "name": "运动与健康",
+            "national": false,
+            "pictureUrl": "https://chinaooc-pic.oss-cn-beijing.aliyuncs.com/courses/bdc431a0f98e65572a42adf7e63598b8.jpg",
+            "school": "湖北大学",
+            "start": "2023-01-11T00:00:00+08:00",
+            "platform": "学堂在线",
+            "isCenter": false,
+            "isLocal": true,
+            "isDoubleTop": false,
+            "default": 35.99626596315233,
+            "totalEnroll": "100万+",
+            "jiage": "免费",
+            "xuexi": "会员购买",
+            "shomai": "会员可看",
+            "zhuantai": "正常",
+            "updateDate": "2023-02-09T07:32:34.014000+08:00",
+            "end": "2023-07-25T23:59:59+08:00",
+            "teachers": [
+                {
+                    "teacherName": "杨双",
+                    "schoolName": "湖北大学"
+                },
+                {
+                    "teacherName": "刘亚奇",
+                    "schoolName": "湖北大学"
+                },
+                {
+                    "teacherName": "王靖",
+                    "schoolName": "湖北大学"
+                },
+                {
+                    "teacherName": "刘勇",
+                    "schoolName": "湖北大学"
+                },
+                {
+                    "teacherName": "史文文",
+                    "schoolName": "湖北大学"
+                },
+                {
+                    "teacherName": "代方梅",
+                    "schoolName": "湖北大学"
+                }
+            ],
+            "teacherFirst": {
+                "teacherName": "代方梅",
+                "schoolName": "湖北大学"
+            },
+            "describe": "\n\n\n\n\n《运动与健康》课程以人文社会科学的视野，将体育人文社会科学、运动人体科学和医学等相关学科有机地结合起来，系统、全面地阐述体育运动与健康的关系、如何向体育运动要健康、不同运动项目的健康机制、运动损伤的预防与处理等基本内容。《运动与健康》祝愿每一位同学掌握科学锻炼的方法，每天锻炼一小时，健康生活一辈子！      \n健康是人类发展永恒的主题，追求健康是人们共同的愿望，拥有健康是人人享有的权利，维护健康必须走科学的道路，增进健康应遵循自身的规律。《运动与健康》这门课程将带领大家为健康而运动。\n在这门课程里，你可以领悟到运动对机体的神奇影响；你可以寻找到科学健身的方法；你可以欣赏到精彩的运动视频；你还可以学会运动损伤的初步处理；你会在运动误区的解释中豁然开朗！ \n\n",
+            "openState": 2,
+            "tags": [
+                {
+                    "class": "医学",
+                    "subject": "基础医学类",
+                    "category": ""
+                }
+            ]
+        },
+        {
+            "courseID": "63bde898af1f1b5d3ecf60cc",
+            "duration": 19,
+            "name": "金融学",
+            "national": true,
+            "pictureUrl": "https://chinaooc-pic.oss-cn-beijing.aliyuncs.com/courses/d0614732ae3fd64d61067cf45b3629f6.jpg",
+            "school": "中央财经大学",
+            "start": "2023-02-06T10:00:00+08:00",
+            "platform": "中国大学MOOC",
+            "isCenter": true,
+            "isLocal": false,
+            "isDoubleTop": true,
+            "default": 48.08112363544625,
+            "totalEnroll": "100万+",
+            "jiage": "免费",
+            "xuexi": "会员购买",
+            "shomai": "会员可看",
+            "zhuantai": "正常",
+            "updateDate": "2023-02-09T07:32:34.991000+08:00",
+            "end": "2023-06-18T23:30:00+08:00",
+            "teachers": [
+                {
+                    "teacherName": "魏建华",
+                    "schoolName": "中央财经大学"
+                },
+                {
+                    "teacherName": "郭田勇",
+                    "schoolName": "中央财经大学"
+                },
+                {
+                    "teacherName": "鄢莉莉",
+                    "schoolName": "中央财经大学"
+                },
+                {
+                    "teacherName": "Ma Ya  马 亚",
+                    "schoolName": "中央财经大学"
+                },
+                {
+                    "teacherName": "方意",
+                    "schoolName": "中央财经大学"
+                },
+                {
+                    "teacherName": "孙建华",
+                    "schoolName": "中央财经大学"
+                },
+                {
+                    "teacherName": "Jianjun Li  李建军",
+                    "schoolName": "中央财经大学"
+                },
+                {
+                    "teacherName": "Huang Zhigang 黄志刚",
+                    "schoolName": "中央财经大学"
+                },
+                {
+                    "teacherName": "Yuge Jia 贾玉革",
+                    "schoolName": "中央财经大学"
+                },
+                {
+                    "teacherName": "蔡如海",
+                    "schoolName": "中央财经大学"
+                },
+                {
+                    "teacherName": "黄昌利",
+                    "schoolName": "中央财经大学"
+                },
+                {
+                    "teacherName": "Yuxiu Zuo 左毓秀",
+                    "schoolName": "中央财经大学"
+                },
+                {
+                    "teacherName": "李健",
+                    "schoolName": "中央财经大学"
+                }
+            ],
+            "teacherFirst": {
+                "teacherName": "李健",
+                "schoolName": "中央财经大学"
+            },
+            "describe": "本课程是金融专业的统帅性基础理论课程。课程教学资源丰富，教学理念先进，教学方法多元。教学体系以开放经济为环境，以实体经济运作为基础，从各经济主体的财务活动中引出金融的供求；以货币、信用及其价格等基本要素为基础，阐明各要素之间的关联性；以金融机构和金融市场为载体，阐释金融运作的基本原理；以利率为联结微观金融与宏观金融的纽带，说明其作用机理；以金融总量与结构均衡为目标，讨论宏观金融的理论与实践问题；以宏观调控和金融监管为保证，研究金融发展的稳健与效率问题。通过课程学习，使学生对金融学的基本理论有全面的理解和较深刻的认识，了解国内外金融问题的现状，掌握观察和分析金融问题的正确方法，培养辨析金融理论和解决金融实际问题的能力。",
+            "openState": 2,
+            "tags": [
+                {
+                    "class": "经济学",
+                    "subject": "金融学类",
+                    "category": "金融学 金融"
+                }
+            ]
+        },
+        {
+            "courseID": "63bde7e8af1f1b5d3ecf59eb",
+            "duration": 28,
+            "name": "生活英语听说",
+            "national": true,
+            "pictureUrl": "https://chinaooc-pic.oss-cn-beijing.aliyuncs.com/courses/558b88c080cf4a80e8616ec8d59cfc0a.jpg",
+            "school": "清华大学",
+            "start": "2023-01-11T00:00:00+08:00",
+            "platform": "学堂在线",
+            "isCenter": true,
+            "isLocal": false,
+            "isDoubleTop": true,
+            "default": 41.037229242394744,
+            "totalEnroll": "100万+",
+            "jiage": "免费",
+            "xuexi": "会员购买",
+            "shomai": "会员可看",
+            "zhuantai": "正常",
+            "updateDate": "2023-02-09T07:32:34.012000+08:00",
+            "end": "2023-07-25T23:59:59+08:00",
+            "teachers": [
+                {
+                    "teacherName": "张文霞",
+                    "schoolName": "清华大学"
+                },
+                {
+                    "teacherName": "杨芳",
+                    "schoolName": "清华大学"
+                }
+            ],
+            "teacherFirst": {
+                "teacherName": "杨芳",
+                "schoolName": "清华大学"
+            },
+            "describe": "\n\n\n\n\n语言最重要的功能就是交流。在交流中我们要知道如何开始一个对方感兴趣的话题，回答别人的提问，自然、流畅地完成一个对话。本课程选取了8个主题，由50多位来自美国、英国、加拿大、澳大利亚、哥伦比亚、中国的老师及各个年龄段的学生，在真实的场景中，用地道的表达和纯正的英语，带你谈论日常生活、学习的方方面面。 本课程分为八个单元，每个单元有一个主题，分别是： 1、个人信息的介绍与交换 2、我们的家人和朋友 3、饮食与用餐 4、英语学习的目的和方法 5、假日活动和难忘的经历 6、兴趣爱好 7、情感表达 8、保持健康 每个主题由十余组对话和小组讨论，外籍老师的中西方文化差异介绍，中国老师的重点词汇、句型讲解，听力理解练习和口语测试构成。我们希望，通过本门课程的学习和练习，你可以和讲英语的朋友们自如地交谈、讨论与各主题相关的话题。本课程的学习方法有很多。英语学习者可以在反复地听和跟读对话的过程中，不断积累语言素材，和你身边的朋友或同课程的学习者进行对话练习；英语教师可以选用本课程中适合的主题，组织学生进行听说训练，组织高效课堂。也许你不能理解每段对话的全部内容，只需听懂大意，随着课程的进展，我们希望你能听懂的内容越来越多。 本门课程在制作过程中得到了香港伟新教育基金和Google公司的资助，特此鸣谢。 \n \n\n",
+            "openState": 2,
+            "tags": [
+                {
+                    "class": "文学",
+                    "subject": "外国语言文学类",
+                    "category": "英语"
+                }
+            ]
+        },
+        {
+            "courseID": "62354c879906eace048c7efb",
+            "duration": 50,
+            "name": "Office高级应用",
+            "national": false,
+            "pictureUrl": "https://chinaooc-pic.oss-cn-beijing.aliyuncs.com/courses/70ddd336cea05d028745f881abedcab1.jpg",
+            "school": "成都信息工程大学",
+            "start": "2022-03-06T10:00:00+08:00",
+            "platform": "中国大学MOOC",
+            "isCenter": false,
+            "isLocal": true,
+            "isDoubleTop": false,
+            "default": 35.544824874920344,
+            "totalEnroll": "80万+",
+            "jiage": "免费",
+            "xuexi": "会员购买",
+            "shomai": "会员可看",
+            "zhuantai": "正常",
+            "updateDate": "2023-02-09T07:32:03.501000+08:00",
+            "end": "2023-02-13T23:30:00+08:00",
+            "teachers": [
+                {
+                    "teacherName": "耿煜",
+                    "schoolName": "湖北文理学院"
+                },
+                {
+                    "teacherName": "钟琦",
+                    "schoolName": "赣南师范大学"
+                },
+                {
+                    "teacherName": "靳玉萍",
+                    "schoolName": "西安科技大学"
+                },
+                {
+                    "teacherName": "曾琼",
+                    "schoolName": "成都信息工程大学"
+                },
+                {
+                    "teacherName": "吴锡",
+                    "schoolName": "成都信息工程大学"
+                },
+                {
+                    "teacherName": "吴四九",
+                    "schoolName": "成都信息工程大学"
+                },
+                {
+                    "teacherName": "陈旗",
+                    "schoolName": "成都信息工程大学"
+                },
+                {
+                    "teacherName": "谯雪梅",
+                    "schoolName": "成都信息工程大学"
+                },
+                {
+                    "teacherName": "赵吉武",
+                    "schoolName": "成都信息工程大学"
+                },
+                {
+                    "teacherName": "朱烨",
+                    "schoolName": "成都信息工程大学"
+                },
+                {
+                    "teacherName": "何钰娟",
+                    "schoolName": "成都信息工程大学"
+                },
+                {
+                    "teacherName": "张伟利",
+                    "schoolName": "成都信息工程大学"
+                }
+            ],
+            "teacherFirst": {
+                "teacherName": "张伟利",
+                "schoolName": "成都信息工程大学"
+            },
+            "describe": "本课程以Office 2010为软件运行环境，结合日常办公应用需求讲解最常用的Word、Excel、PowerPoint三个应用组件，扩展了Word与Python编程应用。　　本课程主要教学内容包括：Word之图文混排、表格处理、高级应用、长文档排版/科技文献编排与自动化；Excel之公式与函数使用、数据管理、图表应用、Excel在工作中的应用实战；PowerPoint之设计理念、各种动画与模板的使用与设计、商业PPT赏析及制作，使用Python程序处理Word文档。",
+            "openState": 2,
+            "tags": [
+                {
+                    "class": "工学",
+                    "subject": "计算机类",
+                    "category": ""
+                }
+            ]
+        },
+        {
+            "courseID": "63dd8d9eaf1f1b5d3ecf8b9b",
+            "duration": 21,
+            "name": "C语言程序设计精髓",
+            "national": true,
+            "pictureUrl": "https://chinaooc-pic.oss-cn-beijing.aliyuncs.com/courses/1499f1cac568f7f134e73f68a20d218a.jpg",
+            "school": "哈尔滨工业大学",
+            "start": "2023-02-06T10:00:00+08:00",
+            "platform": "中国大学MOOC",
+            "isCenter": true,
+            "isLocal": false,
+            "isDoubleTop": true,
+            "default": 47.53109955892032,
+            "totalEnroll": "60万+",
+            "jiage": "免费",
+            "xuexi": "会员购买",
+            "shomai": "会员可看",
+            "zhuantai": "正常",
+            "updateDate": "2023-02-09T07:32:38.497000+08:00",
+            "end": "2023-06-30T23:30:00+08:00",
+            "teachers": [
+                {
+                    "teacherName": "张彦航",
+                    "schoolName": "哈尔滨工业大学"
+                },
+                {
+                    "teacherName": "叶麟",
+                    "schoolName": "哈尔滨工业大学"
+                },
+                {
+                    "teacherName": "赵玲玲",
+                    "schoolName": "哈尔滨工业大学"
+                },
+                {
+                    "teacherName": "苏小红",
+                    "schoolName": "哈尔滨工业大学"
+                }
+            ],
+            "teacherFirst": {
+                "teacherName": "苏小红",
+                "schoolName": "哈尔滨工业大学"
+            },
+            "describe": "   对于这个地球上大多数人来说，真正的数字化革命还没有开始。在接下来的10年里，变化将无处不在，让我们一起来给这个世界编码吧！——Eric Schmidt Google执行主席      我们会用15周的时间来深入讲解C语言，在授课过程中，我们会注重多解释一些“为什么”以及错误程序的分析，从环环相扣的问题入手，将一些易被忽视且对高水平程序设计很重要的“点”，沿着数据结构从简单到复杂的主线逐一展开，在实例的“不断深化和提升”中引出知识点，通过对问题的举一反三和前后知识点的融会贯通，由浅入深地引导你循序渐进地编写规模逐步增大的程序。   在过去30年90%的时间里，C语言独领风骚，仅偶尔被 Java 超越，可见其魅力。C语言作为一种高级语言，其实并不高级，但正是这种“低级”给我们更多思考的机会。期望通过本课程的学习，你不只是简单地能够掌握一种语言的语法，还能理解隐含在语法背后的思想，并初步具备灵活使用这些思想进行编写程序解决实际问题的能力。如果你掌握了这些，你会发现，迈向成功的最后一步不过是选择一种合适的编程工具而已。    你想从“菜鸟”升级为“程序猿”吗？那就加入“稀饭”的行列，和我们一起踏上爱上C语言之旅吧。   自2021年秋季学期起，该课程加入教育部-华为“智能基座”精品慕课建设项目，将C语言与华为资源有机结合起来，包括鲲鹏平台软件开发、华为编程实践与编程规范等。具体所在的章节如下：1.1.2 计算的未来和未来的计算（9分半）1.1.3 编译型语言与解释型语言及其运行差异（7分）1.1.4 现代主流计算机指令（8分）1.2.3 鲲鹏平台介绍——如何在华为云上申请弹性云服务器（6分）1.2.4 鲲鹏平台介绍——远程登陆（3分半）1.2.5 鲲鹏平台介绍——linux指令（4分）1.2.6 鲲鹏平台介绍——运行Hello World（5分）1.6 进阶：华为编程实践与编码规范1.6.1 编程实践—数据类型（4分）1.6.2 编程实践—常量（4分）1.6.3 编程实践—变量（10分）1.6.4 编程实践—声明与初始化（1分）2.6 进阶：华为编程实践与编码规范2.6.1 编程实践—表达式（4分）2.6.2 代码风格—整数（16分）5.7 进阶：华为编程实践与编码规范5.7.1 编程实践—控制语句（8分半）6.1.3 鲲鹏平台ARM处理器的函数优化（8分）6.5 进阶：华为编程实践与编码规范6.5.1 代码风格—命名（6分半）6.5.2 代码风格—注释（6分）6.5.3 代码风格—格式（17分）6.5.4 编程实践—预处理（19分）6.5.5 编程实践—头文件（9分半）11.5 进阶：华为编程实践与代码风格11.5.1 代码风格—指针和数组（10分半）11.5.2 代码风格—字符串（5分）11.5.3 代码风格—断言（6分）11.5.4 代码风格—函数设计（17分）11.5.5 代码风格—函数使用（19分）13.4 鲲鹏多核体系与弱内存模型（17分）15.7 进阶：华为编程实践与编码规范15.7.1 编程规范—内存（6分）15.7.2 编程规范—文件（3分半）15.7.3 编程规范—其它（4分）",
+            "openState": 2,
+            "tags": [
+                {
+                    "class": "工学",
+                    "subject": "计算机类",
+                    "category": "程序设计 C语言"
+                }
+            ]
+        },
+        {
+            "courseID": "63bde7e9af1f1b5d3ecf59f1",
+            "duration": 28,
+            "name": "大国航母与舰载机",
+            "national": true,
+            "pictureUrl": "https://chinaooc-pic.oss-cn-beijing.aliyuncs.com/courses/16a71e945b659033beb3bbaf6e49881c.jpg",
+            "school": "",
+            "start": "2023-01-11T00:00:00+08:00",
+            "platform": "学堂在线",
+            "isCenter": false,
+            "isLocal": false,
+            "isDoubleTop": false,
+            "default": 35.274009821929134,
+            "totalEnroll": "60万+",
+            "jiage": "免费",
+            "xuexi": "会员购买",
+            "shomai": "会员可看",
+            "zhuantai": "正常",
+            "updateDate": "2023-02-09T07:32:34.015000+08:00",
+            "end": "2023-07-25T23:59:59+08:00",
+            "teachers": [
+                {
+                    "teacherName": "赵鹏",
+                    "schoolName": "中国人民解放军海军航空大学"
+                },
+                {
+                    "teacherName": "田伟",
+                    "schoolName": "中国人民解放军海军航空大学"
+                },
+                {
+                    "teacherName": "周笑宇",
+                    "schoolName": "中国人民解放军海军航空大学"
+                },
+                {
+                    "teacherName": "丁彪",
+                    "schoolName": "中国人民解放军海军航空大学"
+                },
+                {
+                    "teacherName": "徐伟勤",
+                    "schoolName": "中国人民解放军海军航空大学"
+                },
+                {
+                    "teacherName": "丁祥",
+                    "schoolName": "中国人民解放军海军航空大学"
+                },
+                {
+                    "teacherName": "孙超",
+                    "schoolName": "中国人民解放军海军航空大学"
+                },
+                {
+                    "teacherName": "程亮亮",
+                    "schoolName": "中国人民解放军海军航空大学"
+                },
+                {
+                    "teacherName": "郭卫刚",
+                    "schoolName": "中国人民解放军海军航空大学"
+                },
+                {
+                    "teacherName": "岳奎志",
+                    "schoolName": "中国人民解放军海军航空大学"
+                }
+            ],
+            "teacherFirst": {
+                "teacherName": "岳奎志",
+                "schoolName": "中国人民解放军海军航空大学"
+            },
+            "describe": "《大国航母与舰载机》课程是国家级一流本科课程。本课程主要介绍世界航母与舰载机简史、航母编队与作战使用、航母总体构造与航空保障系统、航母的其他系统、航母后勤支援保障、舰载机、典型的航母与舰载机等内容。内容丰富、真实，语言生动、幽默，文采飞扬，也是BOPPPS模型的经典应用。本门课程是一门本科学历教育的必修课程，是进行军事职业教育的优质课程，也是进行国防军事教育、爱国教育的经典课程。",
+            "openState": 2,
+            "tags": [
+                {
+                    "class": "工学",
+                    "subject": "航空航天类",
+                    "category": ""
+                }
+            ]
+        },
+        {
+            "courseID": "63bde7e9af1f1b5d3ecf59fe",
+            "duration": 28,
+            "name": "体育与社会",
+            "national": false,
+            "pictureUrl": "https://chinaooc-pic.oss-cn-beijing.aliyuncs.com/courses/b6cc3f7ede4e50055e0fbff640ba62e2.jpg",
+            "school": "武汉体育学院",
+            "start": "2023-01-11T00:00:00+08:00",
+            "platform": "学堂在线",
+            "isCenter": false,
+            "isLocal": true,
+            "isDoubleTop": false,
+            "default": 35.22563830933919,
+            "totalEnroll": "60万+",
+            "jiage": "免费",
+            "xuexi": "会员购买",
+            "shomai": "会员可看",
+            "zhuantai": "正常",
+            "updateDate": "2023-02-09T07:32:34.023000+08:00",
+            "end": "2023-07-25T23:59:59+08:00",
+            "teachers": [
+                {
+                    "teacherName": "王子也",
+                    "schoolName": "武汉体育学院"
+                },
+                {
+                    "teacherName": "王创业",
+                    "schoolName": "武汉体育学院"
+                },
+                {
+                    "teacherName": "张钢花",
+                    "schoolName": "武汉体育学院"
+                },
+                {
+                    "teacherName": "辛梦霞",
+                    "schoolName": "武汉体育学院"
+                },
+                {
+                    "teacherName": "郝斌",
+                    "schoolName": "武汉体育学院"
+                },
+                {
+                    "teacherName": "李菁",
+                    "schoolName": "武汉体育学院"
+                },
+                {
+                    "teacherName": "张德胜",
+                    "schoolName": "武汉体育学院"
+                }
+            ],
+            "teacherFirst": {
+                "teacherName": "张德胜",
+                "schoolName": "武汉体育学院"
+            },
+            "describe": "      本课有五大特点：一是趣味性，有趣是人生的最高境界；二是知识性，没有知识就没有含金量；三是延伸性，从课内延伸到课外，从知识点扩展到知识面；四是探索性，鼓励学生带着问题学习，问题越刁钻，思考越迷人；五是开放性，体育是开放的，本课也是从多学科的视角来阐释“体育为何如此令人着迷”。      本课主讲人，是一群“两有”“两爱”的人，堪称“有”“爱”天团。所谓“两有”，其一，他们都是一群有故事的人，都是“省级名师工作室”的成员；其二，主讲人都是一群有趣的人，基本都有新闻从业经验，都是讲故事的高手。所谓“两爱”，一是爱体育，他们都是超级体育迷；二是爱读书。       一句话：本课“建、用、学”三合一，有助听课者爱体育、懂体育、玩体育。",
+            "openState": 2,
+            "tags": [
+                {
+                    "class": "教育学",
+                    "subject": "体育学类",
+                    "category": ""
+                }
+            ]
+        },
+        {
+            "courseID": "63bde7e8af1f1b5d3ecf59ef",
+            "duration": 28,
+            "name": "中国共产党与中华民族伟大复兴",
+            "national": false,
+            "pictureUrl": "https://chinaooc-pic.oss-cn-beijing.aliyuncs.com/courses/710db373a169cf910d626dbc9256c261.jpg",
+            "school": "",
+            "start": "2023-01-11T00:00:00+08:00",
+            "platform": "学堂在线",
+            "isCenter": false,
+            "isLocal": false,
+            "isDoubleTop": false,
+            "default": 35.21885375353391,
+            "totalEnroll": "60万+",
+            "jiage": "免费",
+            "xuexi": "会员购买",
+            "shomai": "会员可看",
+            "zhuantai": "正常",
+            "updateDate": "2023-02-09T07:32:34.014000+08:00",
+            "end": "2023-07-25T23:59:59+08:00",
+            "teachers": [
+                {
+                    "teacherName": "杜玉芳",
+                    "schoolName": "中央社会主义学院"
+                }
+            ],
+            "teacherFirst": {
+                "teacherName": "杜玉芳",
+                "schoolName": "中央社会主义学院"
+            },
+            "describe": "本课程从国家建构的新视角，采用点线结合、经纬交织的方法，立体地呈现中国共产党近百年的苦难与辉煌，在“求历史之实”的基础上，“求历史之是”。主要从中西方文明、历史与现实、国共两党等多个角度进行比较，重点分析中华民族的危机与中国共产党的创立、国共竞争与民族复兴的选择、建国执政与中华民族走向复兴、中华民族伟大复兴的新时代等问题，深入阐述为什么没有共产党就没有新中国，为什么只有社会主义才能救中国，为什么只有中国特色社会主义才能发展中国。本课程是中央社会主义学院教学改革“五史合一”模块的核心课程，两年来已给中央社会主义学院各个干部班次授课百余次，受到学员一致好评。学员评价说：“这堂课刷新了我们以前的认识，党史原来可以这样讲!”",
+            "openState": 2,
+            "tags": [
+                {
+                    "class": "历史学",
+                    "subject": "历史学类",
+                    "category": "中国"
+                }
+            ]
+        },
+        {
+            "courseID": "63bde7e7af1f1b5d3ecf59e5",
+            "duration": 28,
+            "name": "C++语言程序设计基础",
+            "national": true,
+            "pictureUrl": "https://chinaooc-pic.oss-cn-beijing.aliyuncs.com/courses/84ec917d237f11ca185b86af86102b53.jpg",
+            "school": "清华大学",
+            "start": "2023-01-11T00:00:00+08:00",
+            "platform": "学堂在线",
+            "isCenter": true,
+            "isLocal": false,
+            "isDoubleTop": true,
+            "default": 40.31486439549823,
+            "totalEnroll": "50万+",
+            "jiage": "免费",
+            "xuexi": "会员购买",
+            "shomai": "会员可看",
+            "zhuantai": "正常",
+            "updateDate": "2023-02-09T07:32:34.009000+08:00",
+            "end": "2023-07-25T23:59:59+08:00",
+            "teachers": [
+                {
+                    "teacherName": "徐明星",
+                    "schoolName": "清华大学"
+                },
+                {
+                    "teacherName": "李超",
+                    "schoolName": "清华大学"
+                },
+                {
+                    "teacherName": "郑莉",
+                    "schoolName": "清华大学"
+                }
+            ],
+            "teacherFirst": {
+                "teacherName": "郑莉",
+                "schoolName": "清华大学"
+            },
+            "describe": "C++是从C语言发展演变而来的一种面向对象的程序设计语言。面向对象的程序设计方法将数据及对数据的操作方法封装在一起，作为一个相互依存、不可分离的整体——对象。对同类型对象抽象出其共性，形成类。类通过外部接口，与外界发生关系，对象与对象之间通过消息进行通讯。这样，程序模块间的关系简单，程序模块的独立性、数据的安全性具有良好的保障，通过继承与多态性，使程序具有很高的可重用性，使得软件的开发和维护都更为方便。\n\n\t由于面向对象方法的突出优点，目前它已经成为开发大型软件时所采用的主要方法。而C++语言是应用最广泛的面向对象的程序设计语言之一。\n\n\t本课程是一门面向广大初学者的入门课程，自1999年开始在清华大学开设，本课程的教材已经在清华大学等一百多所学校的不同专业中使用，取得了良好的教学效果。\n\n\t本课程将C++语言作为大学生的计算机编程入门语言，不仅详细介绍语言本身，而且介绍常用的数据结构和算法、面向对象的设计思想和编程方法。课程以面向对象的程序设计方法贯穿始终，每一章都是首先阐述面向对象的程序设计思想和方法，由实际问题入手，然后引出必要的语法知识，在讲解语法时着重从程序设计方法学的角度讲述其意义和用途。",
+            "openState": 2,
+            "tags": [
+                {
+                    "class": "工学",
+                    "subject": "计算机类",
+                    "category": "程序设计 C++"
+                }
+            ]
+        },
+        {
+            "courseID": "63bde7e8af1f1b5d3ecf59ec",
+            "duration": 28,
+            "name": "数据结构(上)",
+            "national": true,
+            "pictureUrl": "https://chinaooc-pic.oss-cn-beijing.aliyuncs.com/courses/41a8930bae57ad0261ac4ffa0cd9036a.jpg",
+            "school": "清华大学",
+            "start": "2023-01-11T00:00:00+08:00",
+            "platform": "学堂在线",
+            "isCenter": true,
+            "isLocal": false,
+            "isDoubleTop": true,
+            "default": 40.27339725492222,
+            "totalEnroll": "40万+",
+            "jiage": "免费",
+            "xuexi": "会员购买",
+            "shomai": "会员可看",
+            "zhuantai": "正常",
+            "updateDate": "2023-02-09T07:32:34.013000+08:00",
+            "end": "2023-07-25T23:59:59+08:00",
+            "teachers": [
+                {
+                    "teacherName": "邓俊辉",
+                    "schoolName": "清华大学"
+                }
+            ],
+            "teacherFirst": {
+                "teacherName": "邓俊辉",
+                "schoolName": "清华大学"
+            },
+            "describe": "\n\t数据结构是计算机科学的关键内容，也是构建高效算法的必要基础。其中涉及的知识，在相关专业的课程系统中始终处于核心位置。本课程旨在围绕各类数据结构的设计与实现，揭示其中的规律原理与方法技巧；同时针对算法设计及其性能分析，使学生了解并掌握主要的套路与手段。讲授的主题从基础的数据结构，一直延伸至新近的研究成果。  ",
+            "openState": 2,
+            "tags": [
+                {
+                    "class": "工学",
+                    "subject": "计算机类",
+                    "category": "数据结构"
+                }
+            ]
+        },
+        {
+            "courseID": "63bde7e8af1f1b5d3ecf59ed",
+            "duration": 28,
+            "name": "《资治通鉴》导读",
+            "national": true,
+            "pictureUrl": "https://chinaooc-pic.oss-cn-beijing.aliyuncs.com/courses/671d332d98170ad136764367097e987e.jpg",
+            "school": "清华大学",
+            "start": "2023-01-11T00:00:00+08:00",
+            "platform": "学堂在线",
+            "isCenter": true,
+            "isLocal": false,
+            "isDoubleTop": true,
+            "default": 40.25306962691303,
+            "totalEnroll": "40万+",
+            "jiage": "免费",
+            "xuexi": "会员购买",
+            "shomai": "会员可看",
+            "zhuantai": "正常",
+            "updateDate": "2023-02-09T07:32:34.013000+08:00",
+            "end": "2023-07-25T23:59:59+08:00",
+            "teachers": [
+                {
+                    "teacherName": "张国刚",
+                    "schoolName": "清华大学"
+                }
+            ],
+            "teacherFirst": {
+                "teacherName": "张国刚",
+                "schoolName": "清华大学"
+            },
+            "describe": "《资治通鉴》是北宋司马光主持编纂的著名编年体史书、传统史籍“通鉴体”门类的开山之作。该书以政治、军事为记述主线，上起公元前403年，下迄公元959年，以294卷、300多万字的篇幅，系统展现一千三百多年间华夏大地波澜壮阔的历史画卷。该书问世以来，不但以其不可替代的史料价值为历代学者所重视，更以其资政育人、总结历代治乱兴衰之道的根本动机与高卓史识为后世所称道，呈现出超越时空的巨大生命力。然而《资治通鉴》篇幅浩瀚、内容复杂，加以历史文献自身的时代特点，非文史专业出身的广大青年学生难以通读并领会其要旨。“《资治通鉴》导读”课程作为一门人文通识课程，目的即在于消除专业壁垒，引导同学直接感受这部中国伟大史学著作的魅力。课程主讲张国刚教授潜心研读《资治通鉴》数十年，通过精心选取其中的经典人物言行与历史场景，钩沉发覆、条分缕析，以现代思维总结文化精髓，以生动语言阐发历史智慧，尤其侧重其中修身、齐家、治国的现实意义。通过“《资治通鉴》导读”课程的学习，同学们不但可对战国至五代之间中国历史发展演化的基本脉络产生较为全面的把握，还可领悟到如何从传统文化汲取现实营养的基本方法，为终身学习国学经典开辟道路。",
+            "openState": 2,
+            "tags": [
+                {
+                    "class": "文学",
+                    "subject": "中国语言文学类",
+                    "category": ""
+                }
+            ]
+        },
+        {
+            "courseID": "63c72410af1f1b5d3ecf790f",
+            "duration": 20,
+            "name": "微积分（一）",
+            "national": true,
+            "pictureUrl": "https://chinaooc-pic.oss-cn-beijing.aliyuncs.com/courses/0702f60f1494f97407926587a2c46457.jpg",
+            "school": "浙江大学",
+            "start": "2023-02-06T10:00:00+08:00",
+            "platform": "中国大学MOOC",
+            "isCenter": true,
+            "isLocal": false,
+            "isDoubleTop": true,
+            "default": 47.223540039484774,
+            "totalEnroll": "40万+",
+            "jiage": "免费",
+            "xuexi": "会员购买",
+            "shomai": "会员可看",
+            "zhuantai": "正常",
+            "updateDate": "2023-02-09T07:32:37.188000+08:00",
+            "end": "2023-06-26T23:00:00+08:00",
+            "teachers": [
+                {
+                    "teacherName": "薛儒英",
+                    "schoolName": "浙江大学"
+                },
+                {
+                    "teacherName": "陈明飞",
+                    "schoolName": "浙江大学"
+                },
+                {
+                    "teacherName": "吴国桢",
+                    "schoolName": "浙江大学"
+                },
+                {
+                    "teacherName": "叶兴德",
+                    "schoolName": "浙江大学"
+                },
+                {
+                    "teacherName": "吴彪",
+                    "schoolName": "浙江大学"
+                },
+                {
+                    "teacherName": "胡贤良",
+                    "schoolName": "浙江大学"
+                },
+                {
+                    "teacherName": "毕惟红",
+                    "schoolName": "浙江大学"
+                },
+                {
+                    "teacherName": "朱静芬",
+                    "schoolName": "浙江大学"
+                },
+                {
+                    "teacherName": "童雯雯",
+                    "schoolName": "浙江大学"
+                },
+                {
+                    "teacherName": "苏德矿",
+                    "schoolName": "浙江大学"
+                }
+            ],
+            "teacherFirst": {
+                "teacherName": "苏德矿",
+                "schoolName": "浙江大学"
+            },
+            "describe": "    微积分是以函数为研究对象，运用极限手段分析处理问题的一门数学科学。    本课程充分发挥传统黑板教学在数学课程讲授上的优势，边讲边写，循序推进，现场手绘图形，通俗易懂，还时常利用一些段子把教学和生活联系起来，使得课堂生动活泼，为微积分课程教学带来一股新风。    本课程是在原国家级精品课程的基础上转型而成，分为微积分（一）、（二）、（三），其中微积分（一）包括函数极限与连续、一元函数的微分学、一元函数的积分学、常微分方程。通过本课程的学习，使学生掌握微积分学的基本概念、基本理论、基本方法和具有比较熟练的运算技能，为学习后继课程和进一步获取数学知识奠定必要的数学基础；并使学生受到高等数学的思想方法熏陶和运用它们解决实际问题的基本训练；培养学生具有一定的抽象思维能力、逻辑推理能力、空间想象能力以及综合运用所学知识进行分析、解决实际问题的能力。    本课程适合大学一年级正在学习微积分或者正在准备复习考研的学习者。微积分（二）课程连接：https://www.icourse163.org/course/ZJU-1003308005微积分（三）课程连接：https://www.icourse163.org/course/ZJU-1003376003",
+            "openState": 2,
+            "tags": [
+                {
+                    "class": "理学",
+                    "subject": "数学类",
+                    "category": "微积分 积分"
+                }
+            ]
+        },
+        {
+            "courseID": "63bde7e9af1f1b5d3ecf59ff",
+            "duration": 28,
+            "name": "军事理论",
+            "national": false,
+            "pictureUrl": "https://chinaooc-pic.oss-cn-beijing.aliyuncs.com/courses/48e357e08909348a73c73ee7d14953da.jpg",
+            "school": "",
+            "start": "2023-01-11T00:00:00+08:00",
+            "platform": "学堂在线",
+            "isCenter": false,
+            "isLocal": false,
+            "isDoubleTop": false,
+            "default": 34.88176800487638,
+            "totalEnroll": "40万+",
+            "jiage": "免费",
+            "xuexi": "会员购买",
+            "shomai": "会员可看",
+            "zhuantai": "正常",
+            "updateDate": "2023-02-09T07:32:34.023000+08:00",
+            "end": "2023-07-25T23:59:59+08:00",
+            "teachers": [
+                {
+                    "teacherName": "邵志平",
+                    "schoolName": "中国人民解放军国防大学"
+                },
+                {
+                    "teacherName": "孟庆全",
+                    "schoolName": "中国人民解放军国防大学"
+                },
+                {
+                    "teacherName": "孙旭",
+                    "schoolName": "中国人民解放军国防大学"
+                },
+                {
+                    "teacherName": "黄祖海",
+                    "schoolName": "中国人民解放军国防大学"
+                },
+                {
+                    "teacherName": "杜文龙",
+                    "schoolName": "中国人民解放军国防大学"
+                },
+                {
+                    "teacherName": "徐焰",
+                    "schoolName": "中国人民解放军国防大学"
+                }
+            ],
+            "teacherFirst": {
+                "teacherName": "徐焰",
+                "schoolName": "中国人民解放军国防大学"
+            },
+            "describe": "本课程由军事科学院、国防大学、空军指挥学院著名军事专家杜文龙、徐焰、孙旭、孟庆全、邵志平等人，遵照《普通高等学校军事课教学大纲》（教体艺〔2019〕1号）联袂推出、精心打造。共分8个专题，包括中国国防、国家安全、军事思想、现代战争、信息化装备五大板块的核心内容与重难点问题。本课程自成体系、内容新颖、解读权威，既可作为普通高等学校必修的精品军事理论课，也可供关心关注国防和军队建设人士自主学习。",
+            "openState": 2,
+            "tags": [
+                {
+                    "class": "教育学",
+                    "subject": "教育学类",
+                    "category": ""
+                }
+            ]
+        },
+        {
+            "courseID": "63bde7eaaf1f1b5d3ecf5a00",
+            "duration": 28,
+            "name": "不朽的艺术：走进大师与经典",
+            "national": true,
+            "pictureUrl": "https://chinaooc-pic.oss-cn-beijing.aliyuncs.com/courses/58e01527fc80d59a072f4b19ac1627ed.jpg",
+            "school": "清华大学",
+            "start": "2023-01-11T00:00:00+08:00",
+            "platform": "学堂在线",
+            "isCenter": true,
+            "isLocal": false,
+            "isDoubleTop": true,
+            "default": 40.10154391181402,
+            "totalEnroll": "40万+",
+            "jiage": "免费",
+            "xuexi": "会员购买",
+            "shomai": "会员可看",
+            "zhuantai": "正常",
+            "updateDate": "2023-02-09T07:32:34.024000+08:00",
+            "end": "2023-07-25T23:59:59+08:00",
+            "teachers": [
+                {
+                    "teacherName": "孙晶",
+                    "schoolName": "清华大学"
+                },
+                {
+                    "teacherName": "肖鹰",
+                    "schoolName": "清华大学"
+                }
+            ],
+            "teacherFirst": {
+                "teacherName": "肖鹰",
+                "schoolName": "清华大学"
+            },
+            "describe": "【国家精品课】本课程在艺术史、美学理论、思想史和文化史的交叉融合的基础上，通过对经典艺术作品的比较和分析，帮助学生系统了解中西艺术史的发展和特点，梳理中西艺术的艺术观点和美学理论。在课程安排上，抓住重点，以点带面，尤其注重处理中国和西方、传统与现代的对比，力求使学生不同艺术形态的转换有完整的认识。其目的最终落于教学的出发点，即提高学生的审美判断力、欣赏力，涵养艺术趣味，培养具有人文情怀的专业人才。",
+            "openState": 2,
+            "tags": [
+                {
+                    "class": "艺术学",
+                    "subject": "艺术学理论类",
+                    "category": "艺术"
+                }
+            ]
+        },
+        {
+            "courseID": "63bde7e9af1f1b5d3ecf59fc",
+            "duration": 28,
+            "name": "数据结构（下）",
+            "national": true,
+            "pictureUrl": "https://chinaooc-pic.oss-cn-beijing.aliyuncs.com/courses/0d024a950e83cee4702c8fe9c9f2e39d.jpg",
+            "school": "清华大学",
+            "start": "2023-01-11T00:00:00+08:00",
+            "platform": "学堂在线",
+            "isCenter": true,
+            "isLocal": false,
+            "isDoubleTop": true,
+            "default": 40.058042726272376,
+            "totalEnroll": "30万+",
+            "jiage": "免费",
+            "xuexi": "会员购买",
+            "shomai": "会员可看",
+            "zhuantai": "正常",
+            "updateDate": "2023-02-09T07:32:34.022000+08:00",
+            "end": "2023-07-25T23:59:59+08:00",
+            "teachers": [
+                {
+                    "teacherName": "邓俊辉",
+                    "schoolName": "清华大学"
+                }
+            ],
+            "teacherFirst": {
+                "teacherName": "邓俊辉",
+                "schoolName": "清华大学"
+            },
+            "describe": "\n\t数据结构是计算机科学的关键内容，也是构建高效算法的必要基础。其中涉及的知识，在相关专业的课程系统中始终处于核心位置。本课程旨在围绕各类数据结构的设计与实现，揭示其中的规律原理与方法技巧；同时针对算法设计及其性能分析，使学生了解并掌握主要的套路与手段。讲授的主题从基础的数据结构，一直延伸至新近的研究成果。 ",
+            "openState": 2,
+            "tags": [
+                {
+                    "class": "工学",
+                    "subject": "计算机类",
+                    "category": "数据结构"
+                }
+            ]
+        },
+        {
+            "courseID": "63bde7e7af1f1b5d3ecf59e7",
+            "duration": 28,
+            "name": "马克思主义基本原理",
+            "national": true,
+            "pictureUrl": "https://chinaooc-pic.oss-cn-beijing.aliyuncs.com/courses/bc3d6d947fe075213a0e43e4eaa5b2a7.jpg",
+            "school": "清华大学",
+            "start": "2023-01-11T00:00:00+08:00",
+            "platform": "学堂在线",
+            "isCenter": true,
+            "isLocal": false,
+            "isDoubleTop": true,
+            "default": 40.04315845740559,
+            "totalEnroll": "30万+",
+            "jiage": "免费",
+            "xuexi": "会员购买",
+            "shomai": "会员可看",
+            "zhuantai": "正常",
+            "updateDate": "2023-02-09T07:32:34.010000+08:00",
+            "end": "2023-07-25T23:59:59+08:00",
+            "teachers": [
+                {
+                    "teacherName": "曾泽宇",
+                    "schoolName": "清华大学"
+                },
+                {
+                    "teacherName": "孙洁民",
+                    "schoolName": "清华大学"
+                },
+                {
+                    "teacherName": "朱安东",
+                    "schoolName": "清华大学"
+                },
+                {
+                    "teacherName": "刘恩至",
+                    "schoolName": "清华大学"
+                },
+                {
+                    "teacherName": "刘震",
+                    "schoolName": "清华大学"
+                }
+            ],
+            "teacherFirst": {
+                "teacherName": "刘震",
+                "schoolName": "清华大学"
+            },
+            "describe": "      本课程作为一门思想政治理论课和通识教育课程，通过系统地讲授马克思主义产生的社会历史条件、马克思主义的基本理论特征、社会作用和价值追求，讲授马克思主义理论的哲学基础、政治经济学基本规律和科学社会主义原理及其内在逻辑联系，表述马克思主义基本理论的主要内容与马克思主义的基本立场、观点和方法，从而为学生完整、准确的掌握马克思主义理论和树立正确的世界观、价值观和人生观提供理论基础。      本课程强调“教与学相结合、理论与实践相结合、线上与线下相结合”的教学理念，提倡“在比较中学习、在交流中学习、在阅读中学习、在思考中学习”的学习方法。为努力实现教学质量提升的目标，在教学中运用“基于慕课的混合式教学模式”，除了在线课程外，还开设授课教师不同、讲课形式不同、讲授内容不同的线下课程，同时辅助在线阅读、在线讨论、线下讨论课等方式，将传统以“教”为主的模式翻转为以“学”为主的模式，希望学生完成由“被动灌输”到“主动学习”的转化。 ",
+            "openState": 2,
+            "tags": [
+                {
+                    "class": "法学",
+                    "subject": "马克思主义理论类",
+                    "category": "马克思主义"
+                }
+            ]
+        },
+        {
+            "courseID": "63bde7e7af1f1b5d3ecf59e8",
+            "duration": 28,
+            "name": "英文科技论文写作与学术报告",
+            "national": true,
+            "pictureUrl": "https://chinaooc-pic.oss-cn-beijing.aliyuncs.com/courses/2acf94310831ba33dc86313b4543cd04.jpg",
+            "school": "清华大学",
+            "start": "2023-01-11T00:00:00+08:00",
+            "platform": "学堂在线",
+            "isCenter": true,
+            "isLocal": false,
+            "isDoubleTop": true,
+            "default": 39.857325542736135,
+            "totalEnroll": "30万+",
+            "jiage": "免费",
+            "xuexi": "会员购买",
+            "shomai": "会员可看",
+            "zhuantai": "正常",
+            "updateDate": "2023-02-09T07:32:34.011000+08:00",
+            "end": "2023-07-25T23:59:59+08:00",
+            "teachers": [
+                {
+                    "teacherName": "管晓宏",
+                    "schoolName": "清华大学"
+                }
+            ],
+            "teacherFirst": {
+                "teacherName": "管晓宏",
+                "schoolName": "清华大学"
+            },
+            "describe": "发表高质量的学术论文和参与国际学术交流已经成为科学研究必不可少的环节及衡量学术成就的重要指标。清晰的英文表达是国际期刊和会议论文被录用的基本要求。论文投稿和修改，与编辑打交道，熟悉并遵守国际学术规则和惯例十分重要。\n\t本课程旨在指导学生如何撰写国际期刊和会议论文，介绍国际学术界的惯例和规则，讨论相关的东西方文化差异，并指导如何正确引用参考文献，尊重他人研究成果，如何参加学术活动如参加学术会议、如何当评审人及如何担任国际期刊编委、国际会议程序委员会委员等学术工作。\n\t本课程简短探讨如何选择研究课题和如何申请科研项目。",
+            "openState": 2,
+            "tags": [
+                {
+                    "class": "文学",
+                    "subject": "外国语言文学类",
+                    "category": "写作"
+                }
+            ]
+        },
+        {
+            "courseID": "63bde7e9af1f1b5d3ecf59f4",
+            "duration": 28,
+            "name": "生活英语读写",
+            "national": true,
+            "pictureUrl": "https://chinaooc-pic.oss-cn-beijing.aliyuncs.com/courses/7805424efa311fa212f8ea22fa3f051b.jpg",
+            "school": "清华大学",
+            "start": "2023-01-11T00:00:00+08:00",
+            "platform": "学堂在线",
+            "isCenter": true,
+            "isLocal": false,
+            "isDoubleTop": true,
+            "default": 39.824570714049024,
+            "totalEnroll": "30万+",
+            "jiage": "免费",
+            "xuexi": "会员购买",
+            "shomai": "会员可看",
+            "zhuantai": "正常",
+            "updateDate": "2023-02-09T07:32:34.016000+08:00",
+            "end": "2023-07-25T23:59:59+08:00",
+            "teachers": [
+                {
+                    "teacherName": "谢职安",
+                    "schoolName": "北京联合大学"
+                },
+                {
+                    "teacherName": "吕中舌",
+                    "schoolName": "清华大学"
+                },
+                {
+                    "teacherName": "陈永国",
+                    "schoolName": "清华大学"
+                },
+                {
+                    "teacherName": "张文霞",
+                    "schoolName": "清华大学"
+                },
+                {
+                    "teacherName": "杨芳",
+                    "schoolName": "清华大学"
+                }
+            ],
+            "teacherFirst": {
+                "teacherName": "杨芳",
+                "schoolName": "清华大学"
+            },
+            "describe": "\n\n\n\n\n作为一门语言非常重要的两个方面，阅读可以让我们获取丰富的知识，写作可以让我们表达内心的思想。学习正确的阅读技巧和写作技巧，能够让我们更好地获取信息和表达信息。本课程由中外教师及清华学生带领大家在真实的生活场景中畅游英语世界。 本课程从学习、大学、文化、城市、教育、行为论、人际交流和人生的意义等八个主题展开，每个主题由主题课文（两篇）、重点词句讲解、阅读技巧讲解、嘉宾访谈、作文批改和写作技巧讲解、英语学习方法介绍、文学赏析等模块构成。主题课文模块围绕精心挑选的主题展开，带你体验丰富多彩的文化，拓宽视野，同时配有相应的重点词句讲解，希望能让你的英语知识库更庞大；阅读技巧模块以师生互动的形式展开，由老师和英语专业研究生带大家从学习者的角度一起探讨英语阅读的秘诀所在；嘉宾访谈模块邀请了三位嘉宾老师，分别在学习、文化等方面进行了介绍和分享；写作部分包括作文批改和写作技巧讲解，选取与主题相关的四六级作文考题，并各配以两篇学生真实写作案例，通过批改作文的形式讲解写作技巧；英语学习方法模块以访谈形式展开，由留学生助教为大家分享英语学习经验；文学赏析模块精选了八篇文学名著，让学习者在师生互动中遨游文学的海洋。 和我们一起感受语言的魅力！\n\n",
+            "openState": 2,
+            "tags": [
+                {
+                    "class": "文学",
+                    "subject": "外国语言文学类",
+                    "category": "英语"
+                }
+            ]
+        },
+        {
+            "courseID": "63bde7e8af1f1b5d3ecf59f0",
+            "duration": 28,
+            "name": "习近平新时代中国特色社会主义思想",
+            "national": true,
+            "pictureUrl": "https://chinaooc-pic.oss-cn-beijing.aliyuncs.com/courses/9f784e457f5fa46991ebc8b2fcc0efa9.jpg",
+            "school": "清华大学",
+            "start": "2023-01-11T00:00:00+08:00",
+            "platform": "学堂在线",
+            "isCenter": true,
+            "isLocal": false,
+            "isDoubleTop": true,
+            "default": 39.78796813442862,
+            "totalEnroll": "20万+",
+            "jiage": "免费",
+            "xuexi": "会员购买",
+            "shomai": "会员可看",
+            "zhuantai": "正常",
+            "updateDate": "2023-02-09T07:32:34.015000+08:00",
+            "end": "2023-07-25T23:59:59+08:00",
+            "teachers": [
+                {
+                    "teacherName": "胡鞍钢",
+                    "schoolName": "清华大学"
+                }
+            ],
+            "teacherFirst": {
+                "teacherName": "胡鞍钢",
+                "schoolName": "清华大学"
+            },
+            "describe": "    本课程是在清华大学公开课《中国国情与发展》的基础上，结合最新的党的十九大提出的习近平新时代中国特色社会主义思想，对以人民为中心的新发展理念特别是五大发展的进一步解读和阐释，校内讲授学时为12学时。【课程内容】    课程从以人民为中心的新发展理念的发展沿革出发，系统地讲述了紧紧围绕以人民为中心的五大发展理念。课程内容共分为六讲：以人民为中心的新发展理念、创新发展、协调发展、绿色发展、开放发展、共享发展。通过学习，学生将对中国共产党始终以人民为中心的核心思想有系统了解，体会以人民为中心的社会主义现代化内涵，理解创新、协调、绿色、开放、共享的深刻内涵和现实实践，进而对中国特色社会主义道路有更深刻的认识和理解。【课程受众】    本课程适合于高年级的本科生以及硕士生、博士生学习，同时也适合于各级党政领导干部等感兴趣的人员学习。【考核机制】    除课程视频学习外，每一讲设置的测试题总分为最终成绩，60分合格，85分优秀。【参考书目】1. 中共中央宣传部.习近平新时代中国特色社会主义思想学习纲要. 学习出版社.2. 胡鞍钢.中国新理念 五大发展. 浙江人民出版社, 2016.3. 胡鞍钢.中国国情与发展. 中国人民大学出版社, 2016.",
+            "openState": 2,
+            "tags": [
+                {
+                    "class": "法学",
+                    "subject": "马克思主义理论类",
+                    "category": "社会主义 新时代"
+                }
+            ]
+        },
+        {
+            "courseID": "63daea6daf1f1b5d3ecf85f2",
+            "duration": 25,
+            "name": "形势与政策（16期）",
+            "national": true,
+            "pictureUrl": "https://chinaooc-pic.oss-cn-beijing.aliyuncs.com/courses/2112b195c4dad3104be9b299f7a29e9d.jpg",
+            "school": "重庆交通大学",
+            "start": "2023-02-01T00:00:00+08:00",
+            "platform": "学银在线",
+            "isCenter": false,
+            "isLocal": true,
+            "isDoubleTop": false,
+            "default": 43.25989782002614,
+            "totalEnroll": "20万+",
+            "jiage": "免费",
+            "xuexi": "会员购买",
+            "shomai": "会员可看",
+            "zhuantai": "正常",
+            "updateDate": "2023-02-09T07:32:37.844000+08:00",
+            "end": "2023-07-25T00:00:00+08:00",
+            "teachers": [
+                {
+                    "teacherName": "彭文英",
+                    "schoolName": "重庆交通大学"
+                },
+                {
+                    "teacherName": "任超阳",
+                    "schoolName": "重庆交通大学"
+                },
+                {
+                    "teacherName": "孙渝莉",
+                    "schoolName": "重庆交通大学"
+                }
+            ],
+            "teacherFirst": {
+                "teacherName": "孙渝莉",
+                "schoolName": "重庆交通大学"
+            },
+            "describe": "\n                        “形势与政策”课是理论武装时效性、释疑解惑针对性、教育引导综合性都很强的一门高校思想政治理论课，是帮助大学生正确认识新时代国内外形势，深刻领会十八大以来党和国家事业取得的历史性成就、发生的历史性变革、面临的历史性机遇和挑战的核心课程，是第一时间推动党的理论创新成果进教材进课堂进学生头脑，引导大学生准确理解党的基本理论、基本路线、基本方略的重要渠道。      课程的目标任务：遵循简约、实用、有趣、受用的原则，主要讲授全面从严治党、我国经济社会发展、港澳台工作、国际形势与政策四个专题。课程内容内涵深刻，外延广阔，前沿性、时效性很强（每学期全面更新具体的学习专题）。通过四个专题的教学，引导学生牢固树立“四个意识”，增强“四个自信”，在政治立场、政治方向、政治原则、政治道路上同以习近平同志为核心的党中央保持高度一致，志存高远，脚踏实地，勇做时代的弄潮儿，在实现中国梦的生动实践中放飞青春梦想，在为人民利益的不懈奋斗中书写人生华章，努力成为德智体美劳全面发展的社会主义建设者和接班人。      课程的教学组织形式：五合作教学模式（备课合作、教学合作、学习合作、考核合作、评教合作）基础上的在线开放课程应用，采用线上线下相结合的混合式教学方式。\n            ",
+            "openState": 2,
+            "tags": [
+                {
+                    "class": "法学",
+                    "subject": "马克思主义理论类",
+                    "category": "政策"
+                }
+            ]
+        }
+    ]
+}
